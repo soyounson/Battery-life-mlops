@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+mlflow
+shap
+optuna
+h5py
+pyarrow
+pytest
